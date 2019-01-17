@@ -1,0 +1,7 @@
+C:\Users\Evans\source\repos\DiceDiceBaby2\DiceDiceBaby2\bin\Debug\DiceDiceBaby2.exe.config
+C:\Users\Evans\source\repos\DiceDiceBaby2\DiceDiceBaby2\bin\Debug\DiceDiceBaby2.exe
+C:\Users\Evans\source\repos\DiceDiceBaby2\DiceDiceBaby2\bin\Debug\DiceDiceBaby2.pdb
+C:\Users\Evans\source\repos\DiceDiceBaby2\DiceDiceBaby2\obj\Debug\DiceDiceBaby2.csprojAssemblyReference.cache
+C:\Users\Evans\source\repos\DiceDiceBaby2\DiceDiceBaby2\obj\Debug\DiceDiceBaby2.csproj.CoreCompileInputs.cache
+C:\Users\Evans\source\repos\DiceDiceBaby2\DiceDiceBaby2\obj\Debug\DiceDiceBaby2.exe
+C:\Users\Evans\source\repos\DiceDiceBaby2\DiceDiceBaby2\obj\Debug\DiceDiceBaby2.pdb
